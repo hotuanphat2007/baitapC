@@ -1,5 +1,5 @@
 /*
-File name: Bai2_rectangle
+File name: Bai3_Circle.cpp
 Author: Ho Tuan Phat
 Day: 24/04/2023
 Description: Viết chương trình để tính chu vi, diện tích, đường chéo và kiểm tra có phải hình vuông không của một hình chữ nhật
